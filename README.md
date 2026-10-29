@@ -1,4 +1,4 @@
-# BigData_Tarea3_ApacheSpark_Ocana
+# Procesamiento de datos con Apache Spark – Ocaña, Norte de Santander
 
 # Descripción del proyecto
 Este proyecto corresponde a la Tarea 3 del curso Big Data de la Universidad Nacional Abierta y a Distancia (UNAD); se desarrolló una aplicación en Python mediante Apache Spark para procesar registros de vehículos involucrados en siniestros de tránsito en Norte de Santander, con especial atención al municipio de Ocaña.
